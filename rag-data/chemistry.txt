@@ -1,0 +1,31 @@
+1. Water is H₂O
+2. Table salt is NaCl
+3. Atomic number = Number of protons
+4. Mass number = Protons + Neutrons
+5. Isotopes: Atoms with same protons but different neutrons
+6. Avogadro’s Number = 6.022 × 10²³
+7. 1 mole = 6.022 × 10²³ particles
+8. pH < 7 is acidic, pH > 7 is basic
+9. Acid + Base = Salt + Water
+10. Law of Conservation of Mass: Mass is neither created nor destroyed
+11. Balancing equations conserves atoms
+12. HCl + NaOH → NaCl + H₂O
+13. Noble gases are inert
+14. Covalent bond: shared electrons
+15. Ionic bond: transfer of electrons
+16. Electronegativity: tendency to attract electrons
+17. Periods are rows, Groups are columns in periodic table
+18. Transition metals lie in groups 3–12
+19. Atomic radius decreases across a period
+20. Ionization energy increases across a period
+21. Catalyst: speeds up reaction without being consumed
+22. Oxidation is loss of electrons, reduction is gain
+23. Redox reactions involve transfer of electrons
+24. Alkanes: single bonds (CnH2n+2)
+25. Alkenes: one double bond (CnH2n)
+26. Alcohols have -OH group
+27. Esters smell fruity
+28. Greenhouse gases: CO₂, CH₄
+29. Electrolysis splits water into H₂ and O₂
+30. Haber process: N₂ + 3H₂ ⇌ 2NH₃
+

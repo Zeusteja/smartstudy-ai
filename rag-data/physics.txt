@@ -1,0 +1,31 @@
+1. Newton’s First Law: An object in motion stays in motion unless acted upon.
+2. Newton’s Second Law: F = ma
+3. Newton’s Third Law: Every action has an equal and opposite reaction.
+4. Acceleration = Change in velocity / Time
+5. Speed = Distance / Time
+6. Velocity = Displacement / Time
+7. Gravitational Force: F = G(m₁m₂)/r²
+8. Work = Force × Distance
+9. Power = Work / Time
+10. Kinetic Energy = ½mv²
+11. Potential Energy = mgh
+12. Conservation of Energy: Total energy remains constant.
+13. Ohm’s Law: V = IR
+14. Resistance: R = ρL/A
+15. Current: I = Q/t
+16. Electric Power: P = VI
+17. Capacitance: C = Q/V
+18. Magnetic force: F = qvBsinθ
+19. Snell’s Law: n₁sinθ₁ = n₂sinθ₂
+20. Refractive index = Speed in vacuum / Speed in medium
+21. Frequency = 1 / Time period
+22. Wavelength = Speed / Frequency
+23. Momentum: p = mv
+24. Impulse = Change in momentum
+25. Hooke's Law: F = -kx
+26. Sound travels faster in solids than in liquids or gases.
+27. Thermodynamics: ΔU = Q - W
+28. Ideal Gas Law: PV = nRT
+29. Heat = mass × specific heat × ΔT
+30. Light is both a wave and a particle (wave-particle duality).
+
